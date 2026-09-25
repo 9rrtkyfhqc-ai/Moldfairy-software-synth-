@@ -2,7 +2,7 @@
 
 Synth for Trance music
 
-### Features
+## Features
 
 Trance Music lover trying to make Software synth...
 A Synth that has 4 of Oscillator, Saw, 
@@ -16,6 +16,6 @@ i'm working hard to reduce the load on the computer.
 I'm currently on learning, so the code is very messy in some places, especially PluginEditor.cpp, when i started to write code for plugineditor, i didn't know the things very useful like lamda or std::vector and more, so i was tried to write everything manually but middle of writing it, i leaned some of useful things.
 also There are some unused resource files, I'll clean them up eventually...('';)
 
-# Formats
+## Formats
 
 AU / VST3
